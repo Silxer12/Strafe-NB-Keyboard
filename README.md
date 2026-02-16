@@ -5,3 +5,10 @@ A keyboard for nohboard made custom to the roblox game: Strafe
 1. Download the "Installer" folder
 2. In the folder, run "KeyboardInstaller.bat"
 3. If all is correct, you should have my custom strafe keyboard in NohBoard!
+
+## Information about the installer:
+* It looks for NohBoard-ReWrite-v1.3.0 (newest version)
+* The nohboard folder must be in:
+  1. Downloads
+  2. Documents
+  3. OneDrive/Documents
