@@ -8,7 +8,7 @@ A keyboard for nohboard made custom to the roblox game: Strafe
 
 ## Information about the installer:
 * It looks for NohBoard-ReWrite-v1.3.0 (newest version)
-* The nohboard folder must be in:
+* The nohboard folder must be in: (tell me if you want another path to be added)
   1. Downloads
   2. Documents
   3. OneDrive/Documents
